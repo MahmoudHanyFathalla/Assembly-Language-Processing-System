@@ -82,8 +82,6 @@ Execute the assembler with an input file:
 ## Contributors
 - **Mahmoud Hany** - Lead Developer
 
-For contributions and issues, please contact [Mahmoud Hany]((https://www.linkedin.com/in/mahmoud-hany-fathalla-6b1690219/)).
-
 ---
 
 ## License
